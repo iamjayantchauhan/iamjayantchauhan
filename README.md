@@ -4,8 +4,12 @@
 <p align="left">
     <a href="https://twitter.com/imjayantchauhan" target="blank"><img src="https://img.shields.io/twitter/follow/imjayantchauhan?logo=twitter&style=for-the-badge" alt="imjayantchauhan" /></a>
 </p>
-- 🌱 I’m currently learning **GoLang** - 👯 I’m looking to collaborate on [Tagmate App](https://tagmate.app) - 👨‍💻 All of my projects are available at [http://jayantchauhan.com](http://jayantchauhan.com) - 💬 Ask me about **Java, Scala,
-Python, Cassandra, Node JS, Nest JS, React JS** - 📫 How to reach me **developer@jayantchauhan.com**
+- 🌱 I’m currently learning **GoLang** 
+- 👯 I’m looking to collaborate on [Tagmate App](https://tagmate.app)
+- 👨‍💻 All of my projects are available at [http://jayantchauhan.com](http://jayantchauhan.com) 
+- 💬 Ask me about **Java, Scala, Python, Cassandra, Node JS, Nest JS, React JS** 
+- 📫 How to reach me **developer@jayantchauhan.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/imjayantchauhan" target="blank">
